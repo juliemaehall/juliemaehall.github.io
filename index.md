@@ -1,11 +1,11 @@
-# Hello, I'm [Your Name]!
+# Welcome!
 
-Welcome to my website.
+# My Website
 
-## About
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
 
-I'm learning to build websites with GitHub Pages.
+---
 
-## Contact
+Welcome to my homepage!
 
-Find me on [GitHub](https://github.com/yourusername)
+
