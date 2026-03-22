@@ -2,7 +2,7 @@
 
 # Julie Mae Hall
 
-[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](index.md) | [About](About.md) | [Projects](Projects.md) | [Blogs](Blogs.md) | [Contact](contact.md)
 
 ---
 
